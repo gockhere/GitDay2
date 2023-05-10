@@ -6,5 +6,5 @@ public class HomePage {
 
     // nav menu
 
-    / more things
+    // more things
 }
